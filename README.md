@@ -1,2 +1,2 @@
 #Introduction to git hub
-This is tesing
+This is testing
